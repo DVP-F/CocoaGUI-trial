@@ -11,5 +11,9 @@ Requires installing CocoaGUI such as with `dependencies.sh`
     * Uses pympler's `asizeof` utility to check each object in the passed `objects: list[object]`  
 2. `calculator.py`  
     * A simple calculator  
-3. `logs/*.usage.log`  
+3. `builds.sh`  
+    * Build script for all the python scripts  
+    * Uses `nuitka`  
+    * Three options for python binary to use  
+4. `logs/*.usage.log`  
     * Logs from RAM usage tests, files are named by `{script_name - '.py'}.usage.log`  
