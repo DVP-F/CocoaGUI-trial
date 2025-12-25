@@ -1,0 +1,11 @@
+$ py313 calculator.py
+<class 'module'>: <module 'CocoaGUI' from '../py313/lib/python3.13/site-packages/CocoaGUI.py'> - 18656MB
+<class 'CocoaGUI.Window'>: <CocoaGUI.Window object at 0x7f57d395e270> - 11984MB
+<class 'module'>: <module 'CocoaGUI' from '../py313/lib/python3.13/site-packages/CocoaGUI.py'> - 18656MB
+<class 'CocoaGUI.Window'>: <CocoaGUI.Window object at 0x7f57d395e270> - 11984MB
+<class 'module'>: <module 'CocoaGUI' from '../py313/lib/python3.13/site-packages/CocoaGUI.py'> - 18656MB
+<class 'CocoaGUI.Window'>: <CocoaGUI.Window object at 0x7f57d395e270> - 11984MB
+<class 'module'>: <module 'CocoaGUI' from '../py313/lib/python3.13/site-packages/CocoaGUI.py'> - 18656MB
+<class 'CocoaGUI.Window'>: <CocoaGUI.Window object at 0x7f57d395e270> - 11984MB
+<class 'module'>: <module 'CocoaGUI' from '../py313/lib/python3.13/site-packages/CocoaGUI.py'> - 18656MB
+<class 'CocoaGUI.Window'>: <CocoaGUI.Window object at 0x7f57d395e270> - 11984MB
